@@ -1,0 +1,5 @@
+category: Accessibility Gnome
+requires: GConf2 libcairo2 libgconf2_4 libglib2.0_0 libgtk2.0_0 libintl8 libX11_6 libXcursor1 libXfixes3 libXtst6
+sdesc: "GNOME mouse accessibility tool"
+ldesc: "The Mousetweaks package provides mouse accessibility 
+enhancements for the GNOME desktop."
