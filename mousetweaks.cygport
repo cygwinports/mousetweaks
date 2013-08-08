@@ -1,7 +1,7 @@
 inherit gnome2
 
 NAME="mousetweaks"
-VERSION=3.6.0
+VERSION=3.8.0
 RELEASE=1
 CATEGORY="GNOME"
 SUMMARY="GNOME mouse accessibility tool"
