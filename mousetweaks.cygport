@@ -1,11 +1,9 @@
 inherit gnome2
 
 NAME="mousetweaks"
-VERSION=3.10.0
+VERSION=3.12.0
 RELEASE=1
 CATEGORY="GNOME"
 SUMMARY="GNOME mouse accessibility tool"
 DESCRIPTION="The Mousetweaks package provides mouse accessibility enhancements
 for the GNOME desktop."
-
-CYGCONF_ARGS="--disable-dwell-click --disable-pointer-capture"
